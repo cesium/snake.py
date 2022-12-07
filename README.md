@@ -1,6 +1,6 @@
 # Snake Game in Python
 
-This is a project for Cesium's Hour of Code '22.
+This is a project for CeSIUM's Hour of Code '22.
 It's made with the purpose of teaching the basics of programming, while doing something fun.
 
 If you want more details about [python basics](https://recondite-hedge-11c.notion.site/Python-Basics-67ced00e4d80466d8c062343a8d28f75) and this particular [snake game](https://recondite-hedge-11c.notion.site/Snake-Game-43e950d39a4447b18e04eedfde0814f7), please check the Notion pages.
